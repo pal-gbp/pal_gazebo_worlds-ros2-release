@@ -2,6 +2,37 @@
 Changelog for package pal_gazebo_worlds
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+4.3.0 (2024-08-27)
+------------------
+* added new aruco 0
+* Changed marker size
+* Contributors: martinaannicelli
+
+4.2.1 (2024-08-20)
+------------------
+* Merge branch 'martinaannicelli-humble-devel-patch-03419' into 'humble-devel'
+  Update pal_office_w_aruco.world
+  See merge request common/pal_gazebo_worlds!71
+* Update pal_office_w_aruco.world
+* Contributors: antoniobrandi, martinaannicelli
+
+4.2.0 (2024-08-20)
+------------------
+* Merge branch 'abr/pal-office-w-docks' into 'humble-devel'
+  added pal_office_w_docks world
+  See merge request common/pal_gazebo_worlds!70
+* added pal_office_w_docks world
+* Contributors: antoniobrandi
+
+4.1.0 (2024-08-19)
+------------------
+* Merge branch 'man/added-aruco-office' into 'humble-devel'
+  added pal_office_w_aruco
+  See merge request common/pal_gazebo_worlds!69
+* Update small_office.world
+* added pal_office_w_aruco
+* Contributors: antoniobrandi, martinaannicelli
+
 4.0.4 (2024-07-01)
 ------------------
 * Use single quotes
